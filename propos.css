@@ -1,0 +1,49 @@
+/*heder**/
+header{
+    background-color: black;
+}
+.img_header{
+    width: 320px;
+    height: 100px;
+}
+.a_header{
+    color: white;
+    padding: 30px;
+}
+/*section*/
+h1{
+    text-align: center;
+    color: red;
+}
+
+/***footer*/
+.flexx{
+    display: flex;
+    height: 300px;
+}
+.modif_iframe iframe{
+    background-color: rgb(223, 185, 15);
+    width: auto;
+    height: 300px;
+}
+.footer_left{
+    text-align-last: center;
+    background-color: black;
+    height: auto;
+}
+.footer_p{
+    display: flex;
+    
+}
+.espace_p{
+    background-color: white;
+    margin: 30px;
+    text-size-adjust: 2px;
+}
+.sociaux img{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border: solid 1px white;
+    border-radius: 50%;
+}
